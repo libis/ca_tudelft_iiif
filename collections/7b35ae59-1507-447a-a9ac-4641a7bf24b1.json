@@ -439,47 +439,6 @@
                 "service": {
                     "sizes": [
                         {
-                            "width": 794,
-                            "height": 1024
-                        },
-                        {
-                            "width": 310,
-                            "height": 400
-                        },
-                        {
-                            "width": 155,
-                            "height": 200
-                        },
-                        {
-                            "width": 78,
-                            "height": 100
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 794,
-                    "id": "https://dlc.services/thumbs/7/18/e88b1ad8-956e-49b5-9b22-220844db72d2",
-                    "type": "ImageService2",
-                    "height": 1024
-                },
-                "id": "https://dlc.services/thumbs/7/18/e88b1ad8-956e-49b5-9b22-220844db72d2/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/4f38cf34-8f6c-4ec4-beee-0174aa00c9c3.json",
-            "label": {"nl": ["Portret van dr. C. Lely door W. van den Berg"]},
-            "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
                             "width": 861,
                             "height": 1024
                         },
