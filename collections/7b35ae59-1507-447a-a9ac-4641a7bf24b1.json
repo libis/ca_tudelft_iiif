@@ -685,47 +685,6 @@
                 "service": {
                     "sizes": [
                         {
-                            "width": 843,
-                            "height": 1024
-                        },
-                        {
-                            "width": 329,
-                            "height": 400
-                        },
-                        {
-                            "width": 165,
-                            "height": 200
-                        },
-                        {
-                            "width": 82,
-                            "height": 100
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 843,
-                    "id": "https://dlc.services/thumbs/7/18/e37e275b-fdf6-4417-8470-b0592036e964",
-                    "type": "ImageService2",
-                    "height": 1024
-                },
-                "id": "https://dlc.services/thumbs/7/18/e37e275b-fdf6-4417-8470-b0592036e964/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/88dd1cf5-e2aa-44a6-8869-0bbb41262358.json",
-            "label": {"nl": ["Portret van prof. J.A. van der Kloes door C. van Oven"]},
-            "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
                             "width": 753,
                             "height": 1024
                         },
