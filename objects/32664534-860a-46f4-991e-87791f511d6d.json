@@ -2,7 +2,7 @@
     "metadata": [
         {
             "label": "Titel",
-            "value": "Portret van prof. G.J. Elias door S. Schröder"
+            "value": "Zelfportret van prof. A.F. Gips"
         },
         {
             "label": "Objectnaam",
@@ -10,19 +10,19 @@
         },
         {
             "label": "Inventarisnummer",
-            "value": "2002.0028.EWI"
+            "value": "2003.0729.BKD"
         },
         {
             "label": "Datering",
-            "value": "1925 - 1950"
+            "value": "1924"
         },
         {
             "label": "Maker",
-            "value": "Schröder, Sierk  (maker)"
+            "value": "Gips, Abraham Frans  (maker)"
         },
         {
             "label": "Afmetingen",
-            "value": "1.250,0 (h)  * 1.365,0 (b)  * 55,0 (d) "
+            "value": "680,0 (h)  * 550,0 (b)  * 50,0 (d) "
         },
         {
             "label": "Materiaal",
@@ -30,22 +30,22 @@
         },
         {
             "label": "Beschrijving",
-            "value": "Geschilderd portret door Sierk Schröder van prof. Gerhard Joan Elias, hoogleraar wisselstroomtheorie en theoretische elektriciteitsleer van 1916 tot 1950."
+            "value": "Geschilderd zelfportret van prof. A.F. Gips, hoogleraar handtekenen en geschiedenis der schilder- en beeldhouwkunst van 1905 tot 1930, en daarvoor leraar vanaf 1894."
         },
         {
             "label": "Voorstelling",
-            "value": "Elias, Gerhard Johan"
+            "value": "Gips, Abraham Frans"
         }
     ],
     "@type": "sc:Manifest",
     "structures": [{
-        "canvases": ["https://dlc.services/iiif-img/7/18/d1c297fa-4125-4859-8909-a6a751d9ab31/canvas/c0"],
-        "within": "https://dlc.services/iiif-manifest/7/18/b9f1e063-a714-4bcf-9653-73cf956f2fa4/range/range-0.json",
+        "canvases": ["https://dlc.services/iiif-img/7/18/cb8d8f16-ec68-495b-bf51-0bb692716e9e/canvas/c0"],
+        "within": "https://dlc.services/iiif-manifest/7/18/32664534-860a-46f4-991e-87791f511d6d/range/range-0.json",
         "@type": "sc:Range",
-        "@id": "https://dlc.services/iiif-manifest/7/18/b9f1e063-a714-4bcf-9653-73cf956f2fa4/range/range-0-0.json",
+        "@id": "https://dlc.services/iiif-manifest/7/18/32664534-860a-46f4-991e-87791f511d6d/range/range-0-0.json",
         "label": "0"
     }],
-    "@id": "https://raw.githubusercontent.com/digirati-co-uk/delft-static-site-generator/test/content/objects/b9f1e063-a714-4bcf-9653-73cf956f2fa4.json",
+    "@id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/32664534-860a-46f4-991e-87791f511d6d.json",
     "sequences": [{
         "viewingDirection": "left-to-right",
         "viewingHint": "paged",
@@ -56,18 +56,18 @@
                     "service": {
                         "protocol": "http://iiif.io/api/image",
                         "profile": "http://iiif.io/api/image/2/level1.json",
-                        "width": 4112,
-                        "@id": "https://dlc.services/iiif-img/7/18/d1c297fa-4125-4859-8909-a6a751d9ab31",
-                        "height": 3755
+                        "width": 3072,
+                        "@id": "https://dlc.services/iiif-img/7/18/cb8d8f16-ec68-495b-bf51-0bb692716e9e",
+                        "height": 2048
                     },
-                    "width": 4112,
-                    "@id": "https://dlc.services/iiif-img/7/18/d1c297fa-4125-4859-8909-a6a751d9ab31/full/1024,935/0/default.jpg",
-                    "height": 3755
+                    "width": 3072,
+                    "@id": "https://dlc.services/iiif-img/7/18/cb8d8f16-ec68-495b-bf51-0bb692716e9e/full/1024,683/0/default.jpg",
+                    "height": 2048
                 },
                 "@type": "oa:Annotation",
                 "motivation": "sc:painting",
-                "@id": "https://dlc.services/iiif-img/7/18/d1c297fa-4125-4859-8909-a6a751d9ab31/imageanno/0",
-                "on": "https://dlc.services/iiif-img/7/18/d1c297fa-4125-4859-8909-a6a751d9ab31/canvas/c0"
+                "@id": "https://dlc.services/iiif-img/7/18/cb8d8f16-ec68-495b-bf51-0bb692716e9e/imageanno/0",
+                "on": "https://dlc.services/iiif-img/7/18/cb8d8f16-ec68-495b-bf51-0bb692716e9e/canvas/c0"
             }],
             "thumbnail": {
                 "@type": "dctypes:Image",
@@ -75,19 +75,19 @@
                     "sizes": [
                         {
                             "width": 1024,
-                            "height": 935
+                            "height": 683
                         },
                         {
                             "width": 400,
-                            "height": 365
+                            "height": 267
                         },
                         {
                             "width": 200,
-                            "height": 183
+                            "height": 133
                         },
                         {
                             "width": 100,
-                            "height": 91
+                            "height": 67
                         }
                     ],
                     "profile": [
@@ -99,20 +99,20 @@
                         }
                     ],
                     "width": 1024,
-                    "@id": "https://dlc.services/thumbs/7/18/d1c297fa-4125-4859-8909-a6a751d9ab31",
+                    "@id": "https://dlc.services/thumbs/7/18/cb8d8f16-ec68-495b-bf51-0bb692716e9e",
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "height": 935
+                    "height": 683
                 },
-                "@id": "https://dlc.services/thumbs/7/18/d1c297fa-4125-4859-8909-a6a751d9ab31/full/full/0/default.jpg"
+                "@id": "https://dlc.services/thumbs/7/18/cb8d8f16-ec68-495b-bf51-0bb692716e9e/full/full/0/default.jpg"
             },
             "@type": "sc:Canvas",
-            "width": 4112,
-            "@id": "https://dlc.services/iiif-img/7/18/d1c297fa-4125-4859-8909-a6a751d9ab31/canvas/c0",
+            "width": 3072,
+            "@id": "https://dlc.services/iiif-img/7/18/cb8d8f16-ec68-495b-bf51-0bb692716e9e/canvas/c0",
             "label": "Image",
-            "height": 3755
+            "height": 2048
         }],
         "@type": "sc:Sequence",
-        "@id": "https://dlc.services/7/18/b9f1e063-a714-4bcf-9653-73cf956f2fa4/sequences/normal",
+        "@id": "https://dlc.services/7/18/32664534-860a-46f4-991e-87791f511d6d/sequences/normal",
         "label": "Current page order"
     }],
     "@context": "http://iiif.io/api/presentation/2/context.json"
