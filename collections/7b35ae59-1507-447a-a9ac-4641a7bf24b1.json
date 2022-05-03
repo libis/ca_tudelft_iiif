@@ -726,47 +726,6 @@
                 "service": {
                     "sizes": [
                         {
-                            "width": 759,
-                            "height": 1024
-                        },
-                        {
-                            "width": 296,
-                            "height": 400
-                        },
-                        {
-                            "width": 148,
-                            "height": 200
-                        },
-                        {
-                            "width": 74,
-                            "height": 100
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 759,
-                    "id": "https://dlc.services/thumbs/7/18/916b74aa-4b4b-4735-8c0a-1e8eb131359d",
-                    "type": "ImageService2",
-                    "height": 1024
-                },
-                "id": "https://dlc.services/thumbs/7/18/916b74aa-4b4b-4735-8c0a-1e8eb131359d/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/bea00261-fcfa-4f61-b8cd-4f412060a9b8.json",
-            "label": {"nl": ["Portret van prof. J.A.G. van der Steur door R.S. Bakels"]},
-            "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
                             "width": 873,
                             "height": 1024
                         },
