@@ -972,47 +972,6 @@
                 "service": {
                     "sizes": [
                         {
-                            "width": 812,
-                            "height": 1024
-                        },
-                        {
-                            "width": 317,
-                            "height": 400
-                        },
-                        {
-                            "width": 159,
-                            "height": 200
-                        },
-                        {
-                            "width": 79,
-                            "height": 100
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 812,
-                    "id": "https://dlc.services/thumbs/7/18/efc250af-de50-48af-8fb3-4043f7c702df",
-                    "type": "ImageService2",
-                    "height": 1024
-                },
-                "id": "https://dlc.services/thumbs/7/18/efc250af-de50-48af-8fb3-4043f7c702df/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/2f7ddec5-7e62-4a6e-a745-f6ccc6d9fddc.json",
-            "label": {"nl": ["Portret van prof. C.J. van Nieuwenburg door G. de Zoete"]},
-            "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
                             "width": 849,
                             "height": 1024
                         },
