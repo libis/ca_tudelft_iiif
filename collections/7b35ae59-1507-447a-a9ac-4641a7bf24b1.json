@@ -1540,47 +1540,6 @@
             "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/dc434947-cd67-4361-8780-93cae5aa5688.json",
             "label": {"nl": ["Koker met promotiebul van prof. A.E. Korvezee"]},
             "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
-                            "width": 708,
-                            "height": 1024
-                        },
-                        {
-                            "width": 276,
-                            "height": 400
-                        },
-                        {
-                            "width": 138,
-                            "height": 200
-                        },
-                        {
-                            "width": 69,
-                            "height": 100
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 708,
-                    "id": "https://dlc.services/thumbs/7/18/55735582-4512-43fc-8c09-2c66cc15fffb",
-                    "type": "ImageService2",
-                    "height": 1024
-                },
-                "id": "https://dlc.services/thumbs/7/18/55735582-4512-43fc-8c09-2c66cc15fffb/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/52d84cce-1656-4bb9-896a-f1ec1010d1a0.json",
-            "label": {"nl": ["Herdenkingsplaquette voor gevallenen van WOII door prof. L.O. Wenckebach "]},
-            "type": "Manifest"
         }
     ]
 }
