@@ -849,47 +849,6 @@
                 "service": {
                     "sizes": [
                         {
-                            "width": 843,
-                            "height": 1024
-                        },
-                        {
-                            "width": 329,
-                            "height": 400
-                        },
-                        {
-                            "width": 165,
-                            "height": 200
-                        },
-                        {
-                            "width": 82,
-                            "height": 100
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 843,
-                    "id": "https://dlc.services/thumbs/7/18/a11c7327-a0ae-4ec3-894f-d62a2f2c1cb8",
-                    "type": "ImageService2",
-                    "height": 1024
-                },
-                "id": "https://dlc.services/thumbs/7/18/a11c7327-a0ae-4ec3-894f-d62a2f2c1cb8/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/556f2b62-f6f0-4788-ab0e-831d5a2fb0fe.json",
-            "label": {"nl": ["Portret van prof. H. Henket door G. Waltenberger"]},
-            "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
                             "width": 893,
                             "height": 1024
                         },
