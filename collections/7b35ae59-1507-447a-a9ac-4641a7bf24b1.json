@@ -767,47 +767,6 @@
                 "service": {
                     "sizes": [
                         {
-                            "width": 898,
-                            "height": 1024
-                        },
-                        {
-                            "width": 351,
-                            "height": 400
-                        },
-                        {
-                            "width": 175,
-                            "height": 200
-                        },
-                        {
-                            "width": 88,
-                            "height": 100
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 898,
-                    "id": "https://dlc.services/thumbs/7/18/1e4e42b4-feab-49b7-b1d6-11af5572741b",
-                    "type": "ImageService2",
-                    "height": 1024
-                },
-                "id": "https://dlc.services/thumbs/7/18/1e4e42b4-feab-49b7-b1d6-11af5572741b/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/6275470e-ab92-4314-bf2e-08e734e2530e.json",
-            "label": {"nl": ["Portret van prof. J.G. Rutgers door W. van Wijngaarden"]},
-            "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
                             "width": 831,
                             "height": 1024
                         },
