@@ -767,47 +767,6 @@
                 "service": {
                     "sizes": [
                         {
-                            "width": 847,
-                            "height": 1024
-                        },
-                        {
-                            "width": 331,
-                            "height": 400
-                        },
-                        {
-                            "width": 165,
-                            "height": 200
-                        },
-                        {
-                            "width": 83,
-                            "height": 100
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 847,
-                    "id": "https://dlc.services/thumbs/7/18/48bebd9c-b9ed-482c-a175-fd704386c58e",
-                    "type": "ImageService2",
-                    "height": 1024
-                },
-                "id": "https://dlc.services/thumbs/7/18/48bebd9c-b9ed-482c-a175-fd704386c58e/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/5910f06c-08cb-42c5-88bb-e8ac6e87a27d.json",
-            "label": {"nl": ["Portret van prof. H. I. Waterman door W. Hartman"]},
-            "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
                             "width": 898,
                             "height": 1024
                         },
