@@ -1013,47 +1013,6 @@
                 "service": {
                     "sizes": [
                         {
-                            "width": 899,
-                            "height": 1024
-                        },
-                        {
-                            "width": 351,
-                            "height": 400
-                        },
-                        {
-                            "width": 176,
-                            "height": 200
-                        },
-                        {
-                            "width": 88,
-                            "height": 100
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 899,
-                    "id": "https://dlc.services/thumbs/7/18/34d399e7-ed70-49a7-85b8-54eb2a8a2644",
-                    "type": "ImageService2",
-                    "height": 1024
-                },
-                "id": "https://dlc.services/thumbs/7/18/34d399e7-ed70-49a7-85b8-54eb2a8a2644/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/45b3d6d2-3ad6-4ee7-8027-8acb8715e510.json",
-            "label": {"nl": ["Portret van prof. J. Nelemans door J.C.A. Goedhart"]},
-            "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
                             "width": 894,
                             "height": 1024
                         },
