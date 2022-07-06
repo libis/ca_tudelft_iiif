@@ -34,7 +34,7 @@
         },
         {
             "label": "Documentatie",
-            "value": "Zeitschrift des Bayerischen Geometer-Vereins 1909 blz 10 \"Der Heliotroop seine Geschicht Konstruktion und Genauigkeit\" "
+            "value": "'Der Heliotroop seine Geschicht Konstruktion und Genauigkeit', in:\"Zeitschrift des Bayerischen Geometer-Vereins\", 1909, p.10."
         }
     ],
     "@type": "sc:Manifest",
