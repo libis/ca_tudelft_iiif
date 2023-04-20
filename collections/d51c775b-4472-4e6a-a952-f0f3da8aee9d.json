@@ -2022,47 +2022,6 @@
                         }
                     ],
                     "width": 1024,
-                    "id": "https://dlc.services/thumbs/7/18/e4df10f0-40d2-42cf-8806-53b1e65e18e2",
-                    "type": "ImageService2",
-                    "height": 683
-                },
-                "id": "https://dlc.services/thumbs/7/18/e4df10f0-40d2-42cf-8806-53b1e65e18e2/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/2e7b8243-1d67-4a35-b0cf-c97b6058ce93.json",
-            "label": {"nl": ["Hollandse cirkel op een houten voet door J.M. Kleman & Zoon"]},
-            "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
-                            "width": 1024,
-                            "height": 683
-                        },
-                        {
-                            "width": 400,
-                            "height": 267
-                        },
-                        {
-                            "width": 200,
-                            "height": 133
-                        },
-                        {
-                            "width": 100,
-                            "height": 67
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 1024,
                     "id": "https://dlc.services/thumbs/7/18/27f271d5-0589-4e1d-893f-8783643b4d6f",
                     "type": "ImageService2",
                     "height": 683
