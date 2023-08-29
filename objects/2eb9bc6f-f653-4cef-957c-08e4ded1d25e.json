@@ -2,7 +2,7 @@
     "metadata": [
         {
             "label": "Titel",
-            "value": "Portable computer"
+            "value": "Laptop computer door Chicony Electronics Company model LT3600 "
         },
         {
             "label": "Objectnaam",
@@ -26,7 +26,7 @@
         },
         {
             "label": "Beschrijving",
-            "value": "Draagbare computer van Chicony electronics Co. Ltd Taiwan model LT3600"
+            "value": "Draagbare computer van Chicony Electronics Co. Ltd Taiwan model LT3600."
         }
     ],
     "@type": "sc:Manifest",
