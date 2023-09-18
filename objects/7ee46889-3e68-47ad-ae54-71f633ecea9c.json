@@ -13,6 +13,10 @@
             "value": "2023.0004.GEO"
         },
         {
+            "label": "Datering",
+            "value": "1960"
+        },
+        {
             "label": "Maker",
             "value": "Wild Heerbrugg AG  (producent)"
         },
@@ -23,6 +27,10 @@
         {
             "label": "Materiaal",
             "value": "hout, metaal"
+        },
+        {
+            "label": "Plaats vervaardiging",
+            "value": "<a href=\"https://www.geonames.org/2660395\">Heerbrugg, Zwitserland<\/a>"
         },
         {
             "label": "Beschrijving",
