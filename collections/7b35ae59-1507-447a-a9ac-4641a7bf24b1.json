@@ -1054,6 +1054,47 @@
                 "service": {
                     "sizes": [
                         {
+                            "width": 1024,
+                            "height": 768
+                        },
+                        {
+                            "width": 400,
+                            "height": 300
+                        },
+                        {
+                            "width": 200,
+                            "height": 150
+                        },
+                        {
+                            "width": 100,
+                            "height": 75
+                        }
+                    ],
+                    "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                            "formats": ["jpg"],
+                            "qualities": ["color"],
+                            "supports": ["sizeByWhListed"]
+                        }
+                    ],
+                    "width": 1024,
+                    "id": "https://dlc.services/thumbs/7/18/37bef74f-49c6-436e-8b4a-66a256e1f8d7",
+                    "type": "ImageService2",
+                    "height": 768
+                },
+                "id": "https://dlc.services/thumbs/7/18/37bef74f-49c6-436e-8b4a-66a256e1f8d7/full/full/0/default.jpg",
+                "type": "Image"
+            }],
+            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/07f7610c-f245-4e70-86b8-0b3850b59b3b.json",
+            "label": {"nl": ["Penning van prof. B.H. Pekelharing door J.M. Faddegon"]},
+            "type": "Manifest"
+        },
+        {
+            "thumbnail": [{
+                "service": {
+                    "sizes": [
+                        {
                             "width": 858,
                             "height": 1024
                         },
