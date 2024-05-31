@@ -316,6 +316,47 @@
                 "service": {
                     "sizes": [
                         {
+                            "width": 768,
+                            "height": 1024
+                        },
+                        {
+                            "width": 300,
+                            "height": 400
+                        },
+                        {
+                            "width": 150,
+                            "height": 200
+                        },
+                        {
+                            "width": 75,
+                            "height": 100
+                        }
+                    ],
+                    "profile": [
+                        "http://iiif.io/api/image/2/level0.json",
+                        {
+                            "formats": ["jpg"],
+                            "qualities": ["color"],
+                            "supports": ["sizeByWhListed"]
+                        }
+                    ],
+                    "width": 768,
+                    "id": "https://dlc.services/thumbs/7/18/cb6976c5-3c5a-4d70-982d-81c5e0f5e282",
+                    "type": "ImageService2",
+                    "height": 1024
+                },
+                "id": "https://dlc.services/thumbs/7/18/cb6976c5-3c5a-4d70-982d-81c5e0f5e282/full/full/0/default.jpg",
+                "type": "Image"
+            }],
+            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/78d5d473-8b5f-4ddc-85bd-c9ec3f1ab9bc.json",
+            "label": {"nl": ["Bronzen plaquette van prof. J.C. Dijxhoorn"]},
+            "type": "Manifest"
+        },
+        {
+            "thumbnail": [{
+                "service": {
+                    "sizes": [
+                        {
                             "width": 846,
                             "height": 1024
                         },
