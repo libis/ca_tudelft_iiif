@@ -2,7 +2,7 @@
     "metadata": [
         {
             "label": "Titel",
-            "value": "Afdruk van zegel Technische Hogeschool door L.O. Wenckebach"
+            "value": "Grootzegel van de Technische Hogeschool door L.O. Wenckebach"
         },
         {
             "label": "Objectnaam",
@@ -10,7 +10,7 @@
         },
         {
             "label": "Inventarisnummer",
-            "value": "2003.0006.TMD"
+            "value": "2003.0006.tmd"
         },
         {
             "label": "Datering",
@@ -30,11 +30,15 @@
         },
         {
             "label": "Beschrijving",
-            "value": "Afdruk van het zegel van de Techische Hogeschool. De afdruk van het zegel, die onder andere gebruikt werd voor dissertaties, is opgeborgen in een messing doos met schroefdeksel. Het zegel met de fakkel is in 1951 ontworpen door de veelzijdige kunstenaar en destijds hoogleraar boetseren, Ludwig Oswald Wenckebach. De fakkel verwijst naar Prometheus, een Griekse mythologische figuur, die het vuur van de goden stal en het aan de mensen gaf."
+            "value": "Grootzegel van de Technische Hogeschool, onder andere gebruikt voor dissertaties. Het zegel met de fakkel is in 1951 ontworpen door de veelzijdige kunstenaar en destijds hoogleraar boetseren, Ludwig Oswald Wenckebach. De fakkel verwijst naar Prometheus, een Griekse mythologische figuur, die het vuur van de goden stal en het aan de mensen gaf.<\/br>Het zegel is gevat in een messing doos met schroefdeksel."
         },
         {
             "label": "Documentatie",
             "value": "H. Baudet, \"De lange weg naar de Technische Universiteit Delft\", Den Haag, 1992, p. 421."
+        },
+        {
+            "label": "Gerelateerd erfgoedobject",
+            "value": "Stempel van het grootzegel van de TU Delft (CVB.2009.0014)"
         }
     ],
     "@type": "sc:Manifest",
