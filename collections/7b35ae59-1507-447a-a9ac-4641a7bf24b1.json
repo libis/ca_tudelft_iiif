@@ -1300,47 +1300,6 @@
                 "service": {
                     "sizes": [
                         {
-                            "width": 683,
-                            "height": 1024
-                        },
-                        {
-                            "width": 267,
-                            "height": 400
-                        },
-                        {
-                            "width": 133,
-                            "height": 200
-                        },
-                        {
-                            "width": 67,
-                            "height": 100
-                        }
-                    ],
-                    "profile": [
-                        "http://iiif.io/api/image/2/level0.json",
-                        {
-                            "formats": ["jpg"],
-                            "qualities": ["color"],
-                            "supports": ["sizeByWhListed"]
-                        }
-                    ],
-                    "width": 683,
-                    "id": "https://dlc.services/thumbs/7/18/c2133925-8ee6-42b3-99fd-13c39d3a929c",
-                    "type": "ImageService2",
-                    "height": 1024
-                },
-                "id": "https://dlc.services/thumbs/7/18/c2133925-8ee6-42b3-99fd-13c39d3a929c/full/full/0/default.jpg",
-                "type": "Image"
-            }],
-            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/a991b854-e6b5-4403-936d-003ebd404356.json",
-            "label": {"nl": ["Schilderij '1940-1945 studenten streden en leden' door prof. G. de Josselin de Jong"]},
-            "type": "Manifest"
-        },
-        {
-            "thumbnail": [{
-                "service": {
-                    "sizes": [
-                        {
                             "width": 732,
                             "height": 1024
                         },
