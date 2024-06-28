@@ -14,7 +14,7 @@
         },
         {
             "label": "Datering",
-            "value": "1875 - 1877"
+            "value": "1875 - 1878"
         },
         {
             "label": "Maker",
@@ -27,6 +27,10 @@
         {
             "label": "Materiaal",
             "value": "olieverf, linnen, hout"
+        },
+        {
+            "label": "Plaats vervaardiging",
+            "value": "<a href=\"https://www.geonames.org/2758400\">Breda, Nederland<\/a>"
         },
         {
             "label": "Beschrijving",
