@@ -95,7 +95,7 @@
             "label": "8"
         },
         {
-            "canvases": ["https://dlc.services/iiif-img/7/18/a86ed738-6bfa-4943-a658-416a03287094/canvas/c/1"],
+            "canvases": ["https://dlc.services/iiif-img/7/18/085bc3b2-bcb9-428d-b150-dacd176b44eb/canvas/c/1"],
             "within": "https://dlc.services/iiif-manifest/7/18/a3394e36-0bb1-408c-bcbc-5c4f9ab75ebe/range/range-0.json",
             "@type": "sc:Range",
             "@id": "https://dlc.services/iiif-manifest/7/18/a3394e36-0bb1-408c-bcbc-5c4f9ab75ebe/range/range-0-9.json",
@@ -1104,11 +1104,11 @@
                 "metadata": [
                     {
                         "label": "String 1",
-                        "value": "TMD.2006.0018.22"
+                        "value": "TMD.2006.0018.23"
                     },
                     {
                         "label": "String 2",
-                        "value": "10356"
+                        "value": "10357"
                     },
                     {
                         "label": "String 3",
@@ -1141,18 +1141,18 @@
                         "service": {
                             "profile": "http://iiif.io/api/image/2/level2.json",
                             "width": 6016,
-                            "@id": "https://dlc.services/iiif-img/7/18/a86ed738-6bfa-4943-a658-416a03287094",
+                            "@id": "https://dlc.services/iiif-img/7/18/085bc3b2-bcb9-428d-b150-dacd176b44eb",
                             "@context": "http://iiif.io/api/image/2/context.json",
                             "height": 4016
                         },
                         "width": 1024,
-                        "@id": "https://dlc.services/iiif-img/7/18/a86ed738-6bfa-4943-a658-416a03287094/full/1024,684/0/default.jpg",
+                        "@id": "https://dlc.services/iiif-img/7/18/085bc3b2-bcb9-428d-b150-dacd176b44eb/full/1024,684/0/default.jpg",
                         "height": 684
                     },
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
-                    "@id": "https://dlc.services/iiif-img/7/18/a86ed738-6bfa-4943-a658-416a03287094/imageanno/0",
-                    "on": "https://dlc.services/iiif-img/7/18/a86ed738-6bfa-4943-a658-416a03287094/canvas/c/1"
+                    "@id": "https://dlc.services/iiif-img/7/18/085bc3b2-bcb9-428d-b150-dacd176b44eb/imageanno/0",
+                    "on": "https://dlc.services/iiif-img/7/18/085bc3b2-bcb9-428d-b150-dacd176b44eb/canvas/c/1"
                 }],
                 "thumbnail": {
                     "@type": "dctypes:Image",
@@ -1176,14 +1176,14 @@
                             }
                         ],
                         "profile": "http://iiif.io/api/image/2/level0.json",
-                        "@id": "https://dlc.services/thumbs/7/18/a86ed738-6bfa-4943-a658-416a03287094",
+                        "@id": "https://dlc.services/thumbs/7/18/085bc3b2-bcb9-428d-b150-dacd176b44eb",
                         "@context": "http://iiif.io/api/image/2/context.json"
                     },
-                    "@id": "https://dlc.services/thumbs/7/18/a86ed738-6bfa-4943-a658-416a03287094/full/full/0/default.jpg"
+                    "@id": "https://dlc.services/thumbs/7/18/085bc3b2-bcb9-428d-b150-dacd176b44eb/full/full/0/default.jpg"
                 },
                 "@type": "sc:Canvas",
                 "width": 6016,
-                "@id": "https://dlc.services/iiif-img/7/18/a86ed738-6bfa-4943-a658-416a03287094/canvas/c/1",
+                "@id": "https://dlc.services/iiif-img/7/18/085bc3b2-bcb9-428d-b150-dacd176b44eb/canvas/c/1",
                 "label": "Canvas 1",
                 "height": 4016
             },
