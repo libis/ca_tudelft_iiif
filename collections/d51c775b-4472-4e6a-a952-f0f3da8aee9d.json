@@ -12245,6 +12245,38 @@
                 "service": {
                     "sizes": [
                         {
+                            "width": 652,
+                            "height": 1024
+                        },
+                        {
+                            "width": 255,
+                            "height": 400
+                        },
+                        {
+                            "width": 200,
+                            "height": 127
+                        },
+                        {
+                            "width": 64,
+                            "height": 100
+                        }
+                    ],
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "id": "https://dlc.services/thumbs/7/18/107f68ac-23f4-4f15-9e19-24c7f761b5db",
+                    "type": "ImageService2"
+                },
+                "id": "https://dlc.services/thumbs/7/18/107f68ac-23f4-4f15-9e19-24c7f761b5db/full/full/0/default.jpg",
+                "type": "Image"
+            }],
+            "id": "https://raw.githubusercontent.com/libis/ca_tudelft_iiif/main/objects/1da03a31-f787-4640-bede-ba92ecf53fba.json",
+            "label": {"nl": ["Verticale centimeterbaak door Wild"]},
+            "type": "Manifest"
+        },
+        {
+            "thumbnail": [{
+                "service": {
+                    "sizes": [
+                        {
                             "width": 1024,
                             "height": 683
                         },
